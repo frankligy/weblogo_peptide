@@ -1,5 +1,5 @@
 # weblogo_peptide
-Generating peptide weblogo using pure Python. Supports for differnet color schema and different fonts will be supported in the future.
+Generating peptide weblogo using pure Python. Supports for differnet color schema and different fonts will be added in the future.
 
 
 ## Dependencies
